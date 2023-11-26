@@ -1,4 +1,4 @@
-# Goals
+## Goals
 ### Backend
 - [x] Golang
 - [ ] Postgres SQL
@@ -8,20 +8,14 @@
 ### Fontend
 - [ ] Dart
 - [ ] Flutter
-- [x] Markdown
 
 ### Toolings
 - [x] Git
 - [x] Github
+- [x] Markdown
 
-### Concepts & Principles
+### Concepts, Principles
 - [ ] SOLID
-- [ ] Design Patterns
-- [ ] Data Structures
-- [ ] Algorithms
-
-### Fun
-- [ ] Clang
 
 <!---
 khunsai06/khunsai06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
