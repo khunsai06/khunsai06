@@ -1,5 +1,4 @@
 ## Goals
-### Backend
 - [ ] Flutter
 - [ ] Golang
 - [ ] SQL
