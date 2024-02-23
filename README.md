@@ -1,4 +1,4 @@
-## Goals
+## Objectives 
 - [ ] Flutter
 - [ ] Golang
 - [ ] Backend Fundamentals
