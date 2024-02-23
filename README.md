@@ -1,7 +1,6 @@
 ## Goals
 - [ ] Flutter
 - [ ] Golang
-- [ ] SQL
 - [ ] Backend Fundamentals
 - [ ] Docker
 - [ ] Canvas
