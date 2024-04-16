@@ -1,3 +1,2 @@
-JavaScript
-Golang
-C++
+1. C/C++
+2. Python
